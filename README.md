@@ -10,13 +10,12 @@ The first step is to enter the number of elements to be generated from the given
 
 For $x ≥ 0$:
 
-$$ f(x) = γx^{5s+4}e^{-Ax^5} $$
+$$ f(x) = γx^{5s+4}e^{-Ax^5}, γ ∈ R, A ∈ R, s ∈ N $$
 
 For $x < 0$:
 
 $$ f(x) = 0 $$
 
-$$ γ ∈ R, A ∈ R, s ∈ N $$
 
 2. Poisson distribution.
 
