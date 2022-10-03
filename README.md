@@ -27,4 +27,6 @@ The fourth step for the initial distributions is to build intervals $(M(X) - l/9
 The fifth step builds the intervals from the fourth step, but for the generated distributions.
 
 ### Part 2
+Files `EURCB_161209_211210.txt` and `EURCB_211113_211210.txt` store daily data on the Ruble/Euro exchange rate for the last 5 years (2016-2021) from open sources.
+
 
