@@ -41,4 +41,8 @@ The fourth step is to find the confidence interval for the mathematical expectat
 
 The fifth step is to find the confidence interval for the mathematical expectation, provided that the variance is unknown. It is assumed that the original data is normally distributed. Confidence reliability $𝛾$ is a parameter.
 
+The sixth step is to test the hypothesis about the normal distribution of the data.
 
+The seventh step implements an algorithm that allows predicting the future value with a certain probability. The algorithm is developed on the basis of Chebyshev's theorem:
+
+$$ P{|x-a|≥l} ≤ {σ^2 \over l^2}  $$
