@@ -8,7 +8,7 @@ Application for analysis and processing of statistical data by probabilistic met
 The first step is to enter the number of elements to be generated from the given distributions:
 1. Probability density:
 
-$$ f(x) =  $$
+$$ f(x) = { γx^{5s+4}e^{-Ax^5}, x ≥ 0, γ ∈ R, A ∈ R, s ∈ N} $$
 
 2. Poisson distribution.
 
