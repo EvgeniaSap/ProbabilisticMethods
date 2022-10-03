@@ -29,4 +29,8 @@ The fifth step builds the intervals from the fourth step, but for the generated 
 ### Part 2
 Files `EURCB_161209_211210.txt` and `EURCB_211113_211210.txt` store daily data on the Ruble/Euro exchange rate for the last 5 years (2016-2021) from open sources.
 
+The first step is to set the number of intervals for building an interval variation series.
+
+The second step is the construction of the statistical distribution function.
+
 
