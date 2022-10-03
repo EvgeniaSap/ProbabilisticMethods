@@ -1,7 +1,7 @@
 # ProbabilisticMethods
 Application for analysis and processing of statistical data by probabilistic methods.
 ## Building and running the project
-- Clone the repository on your PC.
+- Clone the repository on your PC (or download and extract the archive).
 - Run `main.py` file.
 ## Using the ProbabilisticMethods
 ### Part 1
