@@ -49,6 +49,6 @@ $$ P(|x-a|≥l) ≤ {σ^2 \over l^2}  $$
 
 ## Additional Information
 - `Student.txt` - Student distribution table.
-- `hi.txt` - 
+- `hi.txt` - table of values of critical points of distribution $χ^2$ of the Pearson criterion.
 - `laplas.txt` - table of values of the Laplace function.
 
