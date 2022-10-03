@@ -46,3 +46,9 @@ The sixth step is to test the hypothesis about the normal distribution of the da
 The seventh step implements an algorithm that allows predicting the future value with a certain probability. The algorithm is developed on the basis of Chebyshev's theorem:
 
 $$ P(|x-a|≥l) ≤ {σ^2 \over l^2}  $$
+
+## Additional Information
+- `Student.txt` - Student distribution table.
+- `hi.txt` - 
+- `laplas.txt` - 
+
