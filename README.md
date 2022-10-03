@@ -37,4 +37,6 @@ The third step is the search for point estimates of the distribution parameters 
 
 $$ P(X=k)= {1 \over 5} {λ_{1}^k \over k!} e^{-λ_{1}} + {4 \over 5} {λ_{2}^k \over k!}  e^{-λ_{2}} $$
 
+The fourth step is to find the confidence interval for the mathematical expectation. We assume that there is a normal distribution of a random variable, provided that the confidence reliability $𝛾$ is a parameter. Next, the unbiased estimate of the variance is calculated.
+
 
