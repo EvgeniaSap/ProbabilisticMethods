@@ -33,4 +33,4 @@ The first step is to set the number of intervals for building an interval variat
 
 The second step is the construction of the statistical distribution function.
 
-
+The third step is the search for point estimates of the distribution parameters by the method of moments. It is assumed that the sample was obtained from a random variable 𝑋, which has a double Poisson distribution:
