@@ -50,5 +50,5 @@ $$ P(|x-a|≥l) ≤ {σ^2 \over l^2}  $$
 ## Additional Information
 - `Student.txt` - Student distribution table.
 - `hi.txt` - 
-- `laplas.txt` - 
+- `laplas.txt` - table of values of the Laplace function.
 
