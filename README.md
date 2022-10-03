@@ -5,12 +5,10 @@ Application for analysis and processing of statistical data by probabilistic met
 - Run `main.py` file.
 ## Using the ProbabilisticMethods
 ### Part 1
-The first step is to enter the number of elements that will be generated using:
-1. probability density 
+The first step is to enter the number of elements to be generated from the given distributions:
+1. Probability density:
 
-```
-
-```
+$$ f(x) =  $$
 
 2. Poisson distribution.
 
