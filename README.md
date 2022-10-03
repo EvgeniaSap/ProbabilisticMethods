@@ -35,6 +35,6 @@ The second step is the construction of the statistical distribution function.
 
 The third step is the search for point estimates of the distribution parameters by the method of moments. It is assumed that the sample was obtained from a random variable 𝑋, which has a double Poisson distribution:
 
-$$ P(X=k)= λ_{1}^k e^(-λ_{1}) \over 5 * k! $$
+$$ P(X=k)= {{λ_{1}^k e^(-λ_{1})} \over 5 * k!} $$
 1/5  (λ_1^k)/k! e^(-λ_1 )+4/5  (λ_2^k)/k! e^(-λ_2 ) $$
 
