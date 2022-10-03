@@ -8,9 +8,13 @@ Application for analysis and processing of statistical data by probabilistic met
 The first step is to enter the number of elements to be generated from the given distributions:
 1. Probability density:
 
-$$ f(x) = γx^{5s+4}e^{-Ax^5}, for x ≥ 0 $$
+For $ x ≥ 0 $:
 
-$$ f(x) = 0, for x < 0 $$
+$$ f(x) = γx^{5s+4}e^{-Ax^5} $$
+
+For $ x < 0 $:
+
+$$ f(x) = 0 $$
 
 $$ γ ∈ R, A ∈ R, s ∈ N $$
 
