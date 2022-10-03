@@ -16,8 +16,13 @@ For $x < 0$:
 
 $$ f(x) = 0 $$
 
-
 2. Poisson distribution.
+
+The second step for the generated values ​​is the search for unbiased estimates of the mathematical expectation and variance.
+
+The third step is the search for estimates of distribution parameters by the maximum likelihood method.
+
+The fourth step for the initial distributions is to build intervals $(M(X) - l/9; M(X) + 5l/2$ the probability of falling into which is equal to $p$.
 
 ### Part 2
 
