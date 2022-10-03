@@ -4,8 +4,15 @@ Application for analysis and processing of statistical data by probabilistic met
 - Clone the repository on your PC.
 - Run `main.py` file.
 ## Using the ProbabilisticMethods
-### Page 1
+### Part 1
+The first step is to enter the number of elements that will be generated using:
+1. probability density 
 
+```
 
-### Page 2
+```
+
+2. Poisson distribution.
+
+### Part 2
 
